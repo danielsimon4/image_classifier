@@ -10,6 +10,8 @@ The images with which I tested the model are:
 
 ![image](https://github.com/danielsimon4/image_classifier/assets/155323325/823e9a8f-ad59-4163-895d-9bf4e9534591)
 
+Accuracy of 100% in both train and test data.
+
 <br/><br/>
 
 **Reference:**
