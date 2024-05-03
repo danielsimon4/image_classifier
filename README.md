@@ -14,9 +14,6 @@ The images with which I tested the model are:
 
 <br/>
 
-Accuracy of 100% in both train and test data.
-
-<br/>
 
 **Reference:**
 
