@@ -1,5 +1,5 @@
 # image_classifier
-**Image classifier in R** using a convolutional neural network (CNN).
+**Image classifier in R** using a convolutional neural network (CNN). The model predicts the category (plane, car, bicycle) of the vehicle in the image.
 
 The images with which I trained the model are:
 
