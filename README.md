@@ -1,7 +1,7 @@
 # image_classifier
 **Image classifier in R** using a convolutional neural network (CNN). The model predicts the category (plane, car, bicycle) of the vehicle in the image.
 
-<br/>
+<br>
 
 The images with which I trained the model are:
 
@@ -12,7 +12,7 @@ The images with which I tested the model are:
 
 ![image](https://github.com/danielsimon4/image_classifier/assets/155323325/823e9a8f-ad59-4163-895d-9bf4e9534591)
 
-<br/>
+<br>
 
 
 **Reference:**
